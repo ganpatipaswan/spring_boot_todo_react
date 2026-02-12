@@ -93,7 +93,7 @@ todo_api/target/
 todo-frontend/node_modules/
 
 todo-frontend/build/
-
+todo-frontend/package-lock.json
 todo_api/target
 todo_api/.mvn
 
